@@ -1,5 +1,7 @@
 # Codraft website
 
+> **Old version.** This repository holds the first version of the Codraft website and is no longer developed. Since 2026-11-01 the site is built from scratch with a new design in a separate repository.
+
 The website of **Codraft**, a small studio that plans, builds and looks after websites, software and AI tools for businesses. Architectural drafting (CAD) is a separate offering.
 
 - **Languages:** Croatian (default, at `/`) and English (`/en`)
